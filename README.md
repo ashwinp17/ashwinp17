@@ -8,6 +8,12 @@ I also passed the CompTIA Security+ exam and am building a cybersecurity portfol
 
 ## 🔐 Cybersecurity Projects
 
+### Cloud Security Risk Assessment & GRC Simulation (Azure)
+
+Conducted a cloud security risk assessment using an Azure-based business scenario. Identified and prioritized cloud risks, evaluated likelihood and business impact, and recommended security controls and remediation strategies.
+
+[View Project](https://github.com/ashwinp17/cloud-security-risk-assessment-grc-azure)
+
 ### Web Application Vulnerability Scanning with OWASP ZAP
 Performed an automated vulnerability assessment against DVWA using OWASP ZAP in an isolated VirtualBox lab.
 
