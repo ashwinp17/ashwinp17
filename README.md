@@ -145,4 +145,4 @@ Captured and analyzed ICMP and FTP traffic using Wireshark in an isolated cybers
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ashwin-pratap)
-- [TryHackMe][(https://tryhackme.com/p/ashwinpratap17)
+- [TryHackMe](https://tryhackme.com/p/ashwinpratap17)
