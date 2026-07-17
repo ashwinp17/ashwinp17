@@ -38,6 +38,12 @@ Performed network reconnaissance and service enumeration using Nmap against a vu
 
 [View Project](https://github.com/ashwinp17/network-scanning-host-enumeration-nmap)
 
+### Metasploit Exploitation Lab — DistCC Remote Command Execution
+
+Performed authorized exploitation testing against an intentionally vulnerable Metasploitable 2 target using Metasploit Framework. Exploited the exposed DistCC service and validated successful remote command access.
+
+[View Project](https://github.com/ashwinp17/metasploit-exploitation-lab)
+
 ## 🛠 Tools Used Across Projects and Training
 
 - Kali Linux
