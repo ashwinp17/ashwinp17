@@ -44,6 +44,12 @@ Performed authorized exploitation testing against an intentionally vulnerable Me
 
 [View Project](https://github.com/ashwinp17/metasploit-exploitation-lab)
 
+### OpenVAS Vulnerability Assessment
+
+Performed an authenticated vulnerability assessment against an intentionally vulnerable Metasploitable 2 target using Greenbone/OpenVAS. Identified and prioritized critical vulnerabilities, including unauthenticated root-level command execution through an exposed backdoor service.
+
+[View Project](https://github.com/ashwinp17/openvas-vulnerability-assessment)
+
 ## 🛠 Tools Used Across Projects and Training
 
 - Kali Linux
