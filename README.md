@@ -50,6 +50,12 @@ Performed an authenticated vulnerability assessment against an intentionally vul
 
 [View Project](https://github.com/ashwinp17/openvas-vulnerability-assessment)
 
+### Wireshark Packet Analysis
+
+Captured and analyzed ICMP and FTP network traffic using Wireshark in an isolated cybersecurity lab. Verified ICMP connectivity and demonstrated how FTP exposes usernames and passwords in plaintext.
+
+[View Project](https://github.com/ashwinp17/wireshark-packet-analysis)
+
 ## 🛠 Tools Used Across Projects and Training
 
 - Kali Linux
