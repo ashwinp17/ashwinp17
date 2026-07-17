@@ -46,7 +46,7 @@ Performed network reconnaissance and service enumeration using Nmap against a vu
 - DVWA
 - Nmap
 - OpenVAS
-- Metasploit
+- Metasploit Framework
 - Wireshark
 - OWASP ZAP
 - Splunk
