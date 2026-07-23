@@ -8,6 +8,18 @@ All security testing documented below was conducted against authorized systems i
 
 ## 🔐 Cybersecurity Projects
 
+### Wazuh SIEM & Endpoint Monitoring Lab
+
+Deployed and configured a Wazuh SIEM environment in Oracle VirtualBox, connected a Windows 11 endpoint, and validated centralized endpoint monitoring and alert collection.
+
+- Investigated repeated failed logons and reviewed Wazuh rule `60122`
+- Configured real-time File Integrity Monitoring and detected file changes
+- Tested EICAR file-creation visibility through Wazuh rule `554`
+- Distinguished meaningful security activity from benign system events
+- Added MITRE ATT&CK context, findings, screenshots, and lessons learned
+
+[View Project](https://github.com/ashwinp17/Wazuh-SIEM-Endpoint-Monitoring-Lab)
+
 ### Cloud Security Risk Assessment & GRC Simulation
 
 Conducted a cloud security risk assessment of an Azure-hosted Windows Server environment.
