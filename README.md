@@ -8,7 +8,7 @@ All security testing documented below was conducted against authorized systems i
 
 ## 🔐 Cybersecurity Projects
 
-### Azure Microsoft Defender for Endpoint Lab
+### Azure Microsoft Defender for Endpoint
 
 Built an Azure security lab focused on identity management, endpoint detection and response, and SOC-style investigation using Microsoft Defender for Endpoint.
 
@@ -22,7 +22,7 @@ Built an Azure security lab focused on identity management, endpoint detection a
 [View Project](https://github.com/ashwinp17/Azure-Microsoft-Defender-Endpoint-Lab)
 
 
-### Wazuh SIEM & Endpoint Monitoring Lab
+### Wazuh SIEM & Endpoint Monitoring
 
 Deployed and configured a Wazuh SIEM environment in Oracle VirtualBox, connected a Windows 11 endpoint, and validated centralized endpoint monitoring and alert collection.
 
@@ -65,7 +65,7 @@ Analyzed Linux authentication logs using Python automation and Splunk SIEM.
 
 [View Project](https://github.com/ashwinp17/linux-log-analysis-splunk)
 
-### Azure Active Directory SOC Lab
+### Azure Active Directory SOC Investigations
 
 Deployed and administered an Active Directory environment hosted in Microsoft Azure.
 
