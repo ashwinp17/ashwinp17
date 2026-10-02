@@ -8,6 +8,30 @@ All security testing documented below was conducted against authorized systems i
 
 ## 🔐 Cybersecurity Projects
 
+### Splunk SIEM Security Investigation
+
+Built a hands-on Splunk SIEM lab focused on Windows security monitoring, log analysis, threat investigation, and event correlation using Windows logs and the BOTS v3 dataset.
+
+- Monitored Windows Security events, including process creation and firewall activity
+- Used SPL queries to search, filter, correlate, and summarize security events
+- Investigated suspicious Microsoft 365, SharePoint, and Azure AD activity
+- Correlated user activity with a Hong Kong IP address across multiple data sources
+- Created saved reports and a Splunk dashboard to document investigation findings
+
+[View Project](https://github.com/ashwinp17/Splunk-SIEM-Security-Investigation-Lab)
+
+### Nessus Vulnerability Management
+
+Performed a vulnerability management lab using Tenable Nessus and a Windows virtual machine to identify, analyze, remediate, and validate security vulnerabilities.
+
+- Conducted credentialed vulnerability scans with Tenable Nessus
+- Analyzed vulnerability severity, affected software, and remediation guidance
+- Identified vulnerable Splunk Enterprise software within the Windows environment
+- Remediated vulnerabilities by upgrading affected software
+- Performed follow-up scans to verify remediation and compare vulnerability results
+
+[View Project](https://github.com/ashwinp17/Nessus-Vulnerability-Management-Lab)
+
 ### Azure Microsoft Defender for Endpoint
 
 Built an Azure security lab focused on identity management, endpoint detection and response, and SOC-style investigation using Microsoft Defender for Endpoint.
