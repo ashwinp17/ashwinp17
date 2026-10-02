@@ -23,7 +23,7 @@ Built an Azure security environment focused on identity management, endpoint det
 
 ### Splunk SIEM Security Investigation
 
-Built a hands-on Splunk SIEM lab focused on Windows security monitoring, log analysis, threat investigation, and event correlation using Windows logs and the BOTS v3 dataset.
+Built a Splunk SIEM environment focused on Windows security monitoring, log analysis, threat investigation, and event correlation using Windows logs and the BOTS v3 dataset.
 
 - Monitored Windows Security events, including process creation and firewall activity
 - Used SPL queries to search, filter, correlate, and summarize security events
@@ -35,7 +35,7 @@ Built a hands-on Splunk SIEM lab focused on Windows security monitoring, log ana
 
 ### Nessus Vulnerability Management
 
-Performed a vulnerability management lab using Tenable Nessus and a Windows virtual machine to identify, analyze, remediate, and validate security vulnerabilities.
+Performed a vulnerability management project using Tenable Nessus and a Windows virtual machine to identify, analyze, remediate, and validate security vulnerabilities.
 
 - Conducted credentialed vulnerability scans with Tenable Nessus
 - Analyzed vulnerability severity, affected software, and remediation guidance
