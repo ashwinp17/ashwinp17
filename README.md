@@ -10,7 +10,7 @@ All security testing documented below was conducted against authorized systems i
 
 ### Azure Microsoft Defender for Endpoint
 
-Built an Azure security lab focused on identity management, endpoint detection and response, and SOC-style investigation using Microsoft Defender for Endpoint.
+Built an Azure security environment focused on identity management, endpoint detection and response, and SOC-style investigation using Microsoft Defender for Endpoint.
 
 - Created Microsoft Entra ID employee accounts and applied least-privilege RBAC permissions
 - Deployed and onboarded a Windows Server endpoint to Microsoft Defender for Endpoint
