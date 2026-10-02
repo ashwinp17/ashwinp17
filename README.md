@@ -8,6 +8,19 @@ All security testing documented below was conducted against authorized systems i
 
 ## 🔐 Cybersecurity Projects
 
+### Azure Microsoft Defender for Endpoint
+
+Built an Azure security lab focused on identity management, endpoint detection and response, and SOC-style investigation using Microsoft Defender for Endpoint.
+
+- Created Microsoft Entra ID employee accounts and applied least-privilege RBAC permissions
+- Deployed and onboarded a Windows Server endpoint to Microsoft Defender for Endpoint
+- Executed a controlled PowerShell attack simulation to generate suspicious endpoint activity
+- Investigated a Microsoft Defender alert using alert details and process-tree analysis
+- Used Microsoft Defender Live Response for remote endpoint investigation
+- Analyzed repeated failed authentication attempts using Azure Log Analytics and KQL
+
+[View Project](https://github.com/ashwinp17/Azure-Microsoft-Defender-Endpoint-Lab)
+
 ### Splunk SIEM Security Investigation
 
 Built a hands-on Splunk SIEM lab focused on Windows security monitoring, log analysis, threat investigation, and event correlation using Windows logs and the BOTS v3 dataset.
@@ -31,20 +44,6 @@ Performed a vulnerability management lab using Tenable Nessus and a Windows virt
 - Performed follow-up scans to verify remediation and compare vulnerability results
 
 [View Project](https://github.com/ashwinp17/Nessus-Vulnerability-Management-Lab)
-
-### Azure Microsoft Defender for Endpoint
-
-Built an Azure security lab focused on identity management, endpoint detection and response, and SOC-style investigation using Microsoft Defender for Endpoint.
-
-- Created Microsoft Entra ID employee accounts and applied least-privilege RBAC permissions
-- Deployed and onboarded a Windows Server endpoint to Microsoft Defender for Endpoint
-- Executed a controlled PowerShell attack simulation to generate suspicious endpoint activity
-- Investigated a Microsoft Defender alert using alert details and process-tree analysis
-- Used Microsoft Defender Live Response for remote endpoint investigation
-- Analyzed repeated failed authentication attempts using Azure Log Analytics and KQL
-
-[View Project](https://github.com/ashwinp17/Azure-Microsoft-Defender-Endpoint-Lab)
-
 
 ### Wazuh SIEM & Endpoint Monitoring
 
