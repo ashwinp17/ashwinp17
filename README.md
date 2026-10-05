@@ -56,7 +56,7 @@ Implemented and validated Windows security controls on an Azure Windows Server u
 - Created a test account and verified that non-compliant passwords were rejected while compliant passwords were accepted
 - Mapped implemented controls to NIST 800-53 AC-2 Account Management and IA-5 Authenticator Management
 
-[View Project](PASTE-YOUR-NIST-REPOSITORY-LINK-HERE)
+[View Project](https://github.com/ashwinp17/NIST-800-53-security-controls)
 
 ### Wazuh SIEM & Endpoint Monitoring
 
