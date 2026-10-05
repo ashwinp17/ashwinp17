@@ -45,6 +45,19 @@ Performed a vulnerability management project using Tenable Nessus and a Windows 
 
 [View Project](https://github.com/ashwinp17/Nessus-Vulnerability-Management-Lab)
 
+### NIST 800-53 Security Controls
+
+Implemented and validated Windows security controls on an Azure Windows Server using Group Policy, with a focus on translating NIST 800-53 requirements into technical configurations and testing control effectiveness.
+
+- Configured a 14-character minimum password length and enabled password complexity requirements
+- Enforced password history to prevent reuse of the previous 5 passwords
+- Configured a 90-day maximum password age to support credential lifecycle management
+- Applied updated security policies using `gpupdate /force`
+- Created a test account and verified that non-compliant passwords were rejected while compliant passwords were accepted
+- Mapped implemented controls to NIST 800-53 AC-2 Account Management and IA-5 Authenticator Management
+
+[View Project](PASTE-YOUR-NIST-REPOSITORY-LINK-HERE)
+
 ### Wazuh SIEM & Endpoint Monitoring
 
 Deployed and configured a Wazuh SIEM environment in Oracle VirtualBox, connected a Windows 11 endpoint, and validated centralized endpoint monitoring and alert collection.
